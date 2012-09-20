@@ -1,0 +1,15 @@
+﻿body {
+}
+
+.pets {
+    padding: 0px;
+    margin-top: 20px;
+    border: 1px solid black;
+    border-spacing:0px;
+}
+.pets td {
+    border: 1px solid black;
+}
+
+.invoices {
+}
